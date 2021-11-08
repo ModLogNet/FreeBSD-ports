@@ -15,7 +15,7 @@ LICENSE_FILE=	${WRKSRC}/LICENSE
 USES?=		autoreconf libtool
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	5u623l20
+GH_ACCOUNT=	ModLogNet
 
 GNU_CONFIGURE=		yes
 CONFIGURE_ARGS+=	--without-check
